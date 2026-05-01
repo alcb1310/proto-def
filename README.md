@@ -5,9 +5,7 @@
 In this repository we are going to store the `.proto` files that we are going to be using in the following repositories:
 
 - [proto-server](https://github.com/alcb1310/proto-server)
-- proto-client
-
-TODO: add the link to the `proto-client` repository
+- [proto-client](https://github.com/alcb1310/proto-client)
 
 ## Process
 
