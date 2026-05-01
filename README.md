@@ -1,3 +1,5 @@
+<img width="1134" height="425" alt="protobuf" src="https://github.com/user-attachments/assets/4dfca746-91b0-49b1-b28c-2f06efd461bc" />
+
 # Protobuf definitions
 
 In this repository we are going to store the `.proto` files that we are going to be using in the following repositories:
